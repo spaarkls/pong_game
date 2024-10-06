@@ -16,4 +16,9 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 ```bash
 gcc interactive_pong.c -lncurses
 ```
+or launch run.sh
+
+```bash
+bash run.sh
+```
 
